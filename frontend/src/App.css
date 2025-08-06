@@ -1,0 +1,18 @@
+.app {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+
+.question-block {
+  background: #ffb7b2;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
